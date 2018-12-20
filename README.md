@@ -7,5 +7,7 @@ C++ Language Reference
   - [DONE]  1. Console Color Change.
 
   - [DONE]  2. Console Blink Screen Fix
+
+  - [DONE]  3. Button Actions
   
   Work In Progress...

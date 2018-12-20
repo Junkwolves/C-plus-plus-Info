@@ -1,0 +1,54 @@
+
+#include <conio.h>
+
+enum class KEYS_2
+            // You can find an ASCII table on the Internet.
+{
+ ESC = 27,
+
+ W = 87,
+
+ w = 119,
+
+ S = 83,
+
+ s = 115,
+
+ A = 65,
+
+ a = 97,
+
+ D = 68,
+
+ d = 100
+
+};
+
+while (true)
+	
+{
+		
+	if (_kbhit())
+		
+	{	
+			
+		switch (static_cast<KEYS_2>(_getch()))
+	
+		{
+		
+		case KEYS_2::W:
+
+
+		break;
+
+
+			
+		case KEYS_2::w:
+
+
+		break;
+		{
+
+	
+	{
+}
