@@ -1,0 +1,14 @@
+ // Old version
+
+for each([Data type] [Variable name] int [Array name])
+{
+               std::cout << [Variable name] << std::endl;
+}
+
+
+// A new version
+
+for ([Data type] [Variable name] : [Array name])
+{
+               std::cout << [Variable name] << std::endl;
+}
