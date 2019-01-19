@@ -14,4 +14,6 @@ C++ Language Reference
 
   - [WIP]  5. Prefix && Postfix Increment
   
+  - [DONE] 6. String To Int
+  
   Work In Progress...
