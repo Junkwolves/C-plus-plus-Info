@@ -1,0 +1,8 @@
+		
+int a = 5;
+
+		
+	string a_string = to_string(a);
+
+		
+	int a_int = stoi(a_string);
